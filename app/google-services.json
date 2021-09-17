@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847265302471",
+    "project_id": "travellermad-e1782",
+    "storage_bucket": "travellermad-e1782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847265302471:android:026c3c59815b6f73ce7be2",
+        "android_client_info": {
+          "package_name": "com.example.madfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847265302471-vrkb56ssv26q4tj5klrvjevk1bi2q8a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSEvOon1OBjXUyrk-9KD3pHp5rQo3NA3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847265302471-vrkb56ssv26q4tj5klrvjevk1bi2q8a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
