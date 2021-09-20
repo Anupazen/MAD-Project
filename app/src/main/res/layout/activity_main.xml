@@ -60,13 +60,13 @@
         android:text="@string/clear"
         android:textSize="10sp"
         app:backgroundTint="#FF5722"
-        app:layout_constraintEnd_toStartOf="@+id/button2"
+        app:layout_constraintEnd_toStartOf="@+id/Submit"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword2" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/Submit"
         android:layout_width="87dp"
         android:layout_height="39dp"
         android:layout_marginTop="44dp"
@@ -91,7 +91,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.514"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/Submit" />
 
     <Button
         android:id="@+id/button3"

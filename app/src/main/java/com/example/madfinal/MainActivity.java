@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Admin login is done from this class
     public void AdminLogin(View view){
-        Intent intent=new Intent(this,AdminHome.class);
+        Intent intent=new Intent(this,AdminHomeDirect.class);
         startActivity(intent);
     }
 }

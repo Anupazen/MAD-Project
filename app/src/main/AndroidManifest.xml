@@ -8,8 +8,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MADFinal">
-        <activity android:name=".AdminHomeDirect"></activity>
+        android:theme="@style/Theme.MADFinal.NoActionBar">
+        <activity android:name=".card1"></activity>
+        <activity android:name=".sidepannel_new" />
+        <activity android:name=".AdminHomeDirect" />
         <activity android:name=".SidePannelClient" />
         <activity android:name=".AdminHome" />
         <activity android:name=".homepageClient" />
