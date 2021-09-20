@@ -29,7 +29,8 @@
     <string name="favcountry">Country of Most Users :</string>
     <string name="favhotel">Favourite Hotel :</string>
     <string name="New_user">Are You a New User?</string>
-
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string-array name="countries_array">
         <item>Sri lanka</item>
